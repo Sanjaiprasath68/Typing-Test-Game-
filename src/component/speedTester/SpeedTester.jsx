@@ -1,6 +1,5 @@
 import React, { useState, useRef } from "react";
 import Result from "../result/Result";
-// import Typist from "react-typist";
 import "./speedTester.css";
 
 function SpeedTester() {
