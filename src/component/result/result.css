@@ -1,0 +1,9 @@
+#retry-btn{
+    background-color: rgb(150, 228, 135);
+    color: white;
+    border: none;
+    border-radius: 5px;
+    height: 30px;
+    width: 50px;
+    margin-top: 20px;
+}
