@@ -78,10 +78,10 @@ function SpeedTester() {
   return (
     <>
       <div className="speedTester">
-        <h2 style={{ textDecoration: "underline"}}>
+        <h3 style={{ textDecoration: "underline"}}>
           {" "}
           Words are displayed according to your level
-        </h2>
+        </h3>
         <div className="writingContent">
           {wordCollection.map((word, index) => (
             <b>
